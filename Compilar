@@ -1,0 +1,16 @@
+
+Para compilar en terminal
+
+g++ main.c `sdl-config --cflags --libs` -o main -lSDL_ttf (para la fuente)
+./main
+
+------------------
+
+Mover la nave
+Teclas de direccion.
+
+Disparar
+tecla- shift derecho
+
+
+
